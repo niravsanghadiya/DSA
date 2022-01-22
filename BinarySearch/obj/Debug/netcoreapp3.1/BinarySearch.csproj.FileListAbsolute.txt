@@ -1,0 +1,13 @@
+C:\SampleProjects\DSA\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+C:\SampleProjects\DSA\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+C:\SampleProjects\DSA\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+C:\SampleProjects\DSA\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+C:\SampleProjects\DSA\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+C:\SampleProjects\DSA\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\SampleProjects\DSA\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csprojAssemblyReference.cache
+C:\SampleProjects\DSA\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+C:\SampleProjects\DSA\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+C:\SampleProjects\DSA\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.CoreCompileInputs.cache
+C:\SampleProjects\DSA\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+C:\SampleProjects\DSA\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\SampleProjects\DSA\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.genruntimeconfig.cache
